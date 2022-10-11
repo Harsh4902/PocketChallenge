@@ -97,7 +97,7 @@
         android:id="@+id/tvLogin"
         android:layout_width="232dp"
         android:layout_height="46dp"
-        android:layout_marginTop="584dp"
+        android:layout_marginTop="540dp"
         android:background="@drawable/bt_orange"
         android:gravity="center_horizontal|center_vertical"
         android:text="Log In"
@@ -105,7 +105,7 @@
         android:textSize="20sp"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.496"
+        app:layout_constraintHorizontal_bias="0.497"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 

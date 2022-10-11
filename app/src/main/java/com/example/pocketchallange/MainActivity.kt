@@ -15,7 +15,7 @@ class MainActivity : AppCompatActivity() {
 
 
         tvLogin.setOnClickListener {
-            val intent = Intent(this, HomeActivity::class.java)
+            val intent = Intent(this, ProfileActivity::class.java)
             startActivity(intent)
         }
 
